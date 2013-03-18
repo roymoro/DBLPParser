@@ -1,0 +1,3 @@
+D:\Code\exercises\dblp.xml
+
+-Xmx1024m
